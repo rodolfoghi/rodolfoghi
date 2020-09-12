@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working with C#, Oracle Database, Javascript, CSS and HTML.
+- 🌱 I’m currently learning Game Development, Python, Typescript, NestJS and Rust.
+- 📫 How to reach me:
+  * 🚀 [Site](https://rodolfoghi.github.io) <br>
+  * 🐦 [Twitter](https://twitter.com/ghiggirodolfo) <br>
+  * 📸 [Instagram](https://www.instagram.com/ghiggirodolfo/) <br>
+  * 💼 [LinkedIn](https://www.linkedin.com/in/gringodev/) <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfoghi&layout=compact)](https://github.com/ByteDecoder/github-readme-stats)
