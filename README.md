@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me:
   * 🚀 [Site](https://bdcd.com.br/) <br>
-  * 🐦 [Twitter](https://twitter.com/ghiggirodolfo) <br>
-  * 📸 [Instagram](https://www.instagram.com/ghiggirodolfo/) <br>
   * 💼 [LinkedIn](https://www.linkedin.com/in/gringodev/) <br>
